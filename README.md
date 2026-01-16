@@ -56,11 +56,14 @@
 
 ###
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="All_Sections/First_Section/img-1.png" alt="Image 1" width="30%"/>
-  <img src="All_Sections/First_Section/img-2.png" alt="Image 2" width="30%"/>
-  <img src="All_Sections/First_Section/img-3.png" alt="Image 3" width="30%"/>
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; gap: 12px; max-width: 900px; width: 100%; justify-content: center;">
+    <img src="All_Sections/First_Section/img-1.png" alt="Image 1" style="width: 30%;"/>
+    <img src="All_Sections/First_Section/img-2.png" alt="Image 2" style="width: 30%;"/>
+    <img src="All_Sections/First_Section/img-3.png" alt="Image 3" style="width: 30%;"/>
+  </div>
 </div>
+
 
 ###
 
