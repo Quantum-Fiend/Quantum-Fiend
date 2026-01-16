@@ -83,7 +83,7 @@
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="../READMECheck/All_Sections/Second_Section/img-1.png" alt="Image 1" width="30%"/>
   <img src="../READMECheck/All_Sections/Second_Section/img-2.png" alt="Image 2" width="30%"/>
-  <img src="../READMECheck/All_Sections/Second_Section/img-3.png" alt="Image 3" width="30%"/>
+  <img src="All_Sections/Second_Section/img-3.png" alt="Image 3" width="30%"/>
 </div>
 
 <h4 align="center">
