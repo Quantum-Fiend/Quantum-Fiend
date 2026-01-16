@@ -57,9 +57,9 @@
 ###
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="All_Sections/First_Section/img-1.png" alt="Image 1" width="30%"/>
-  <img src="All_Sections/First_Section/img-2.png" alt="Image 2" width="30%"/>
-  <img src="All_Sections/First_Section/img-3.png" alt="Image 3" width="30%"/>
+  <img src="All_Sections/First_Section/img-1.png" alt="Image 1" width="33.33%"/>
+  <img src="All_Sections/First_Section/img-2.png" alt="Image 2" width="33.33%"/>
+  <img src="All_Sections/First_Section/img-3.png" alt="Image 3" width="33.33%"/>
 </div>
 
 ###
