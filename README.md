@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🔍 Reduce problems to fundamentals...! <br>🧠 Study edge cases, not just happy paths...! <br>🧪 Validate ideas with fast experiments...! <br>⚙️ Optimize for clarity before speed...!  <br>🚀 Ship → learn → refine</p>
+<p align="left">🔍 Reduce problems to fundamentals. <br>🧠 Study edge cases, not just happy paths. <br>🧪 Validate ideas with fast experiments. <br>⚙️ Optimize for clarity before speed.  <br>🚀 Ship → learn → refine</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">🤖 Exploring agentic patterns and workflows enabled by Generative AI...!<br>⚙️ Studying how LLMs integrate into backend systems and APIs...!<br>🧠 Deep-diving into system design, failure modes, and resilience...!<br>🔬 Understanding performance, latency, and reliability trade-offs...!<br>🛠️ Practicing advanced debugging and system analysis...!</p>
+<p align="left">🤖 Exploring agentic patterns and workflows enabled by Generative AI.<br>⚙️ Studying how LLMs integrate into backend systems and APIs.<br>🧠 Deep-diving into system design, failure modes, and resilience.<br>🔬 Understanding performance, latency, and reliability trade-offs.<br>🛠️ Practicing advanced debugging and system analysis.</p>
 
 ###
 
