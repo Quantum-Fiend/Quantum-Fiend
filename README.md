@@ -148,7 +148,7 @@
 
 ###
 
-<p align="left">💻 Software Engineer | System Breaker | Creative Technologist<br>🕷️ I dissect systems to uncover hidden logic, failure modes, and emergent behavior...!<br>🧩 I build from first principles — logic-first, explainable, and resilient by design...!<br>🧪 Comfortable in ambiguity. Relentless with curiosity...!<br>🔓 I don’t trust black boxes. I open them, study them, and rebuild them...!<br>🎯 Mission: Engineer scalable systems that stay clear, calm, and correct under pressure...!</p>
+<p align="left">💻 Software Engineer | System Breaker | Creative Technologist.<br>🕷️ I dissect systems to uncover hidden logic, failure modes, and emergent behavior.<br>🧩 I build from first principles — logic-first, explainable, and resilient by design.<br>🧪 Comfortable in ambiguity. Relentless with curiosity.<br>🔓 I don’t trust black boxes. I open them, study them, and rebuild them.<br>🎯 Mission: Engineer scalable systems that stay clear, calm, and correct under pressure.</p>
 
 ###
 
