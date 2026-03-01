@@ -36,13 +36,13 @@
 
 ###
 
-<!-- <h2 align="center">🧪Actively Stress - Testing Ideas🧪</h2>
+ <h2 align="center">🧪Actively Stress - Testing Ideas🧪</h2>
 
 ###
 
 <p align="left">🤖 Exploring agentic patterns and workflows enabled by Generative AI.<br>⚙️ Studying how LLMs integrate into backend systems and APIs.<br>🧠 Deep-diving into system design, failure modes, and resilience.<br>🔬 Understanding performance, latency, and reliability trade-offs.<br>🛠️ Practicing advanced debugging and system analysis.</p>
 
-### -->
+### 
 
 <h2 align="center">📦Labs & Experiments📦</h2>
 
