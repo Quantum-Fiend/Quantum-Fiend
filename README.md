@@ -14,7 +14,7 @@
 
 ###
 
-<div align="justify-center">
+<div align="center">
  <a href="https://www.instagram.com/tushar___bisht__16/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
  <a href="mailto:tusharbisht706@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /></a>
  <a href="https://www.linkedin.com/in/tushar-singh-bisht-a1099a314/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
