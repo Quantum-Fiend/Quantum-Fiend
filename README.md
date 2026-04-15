@@ -14,7 +14,7 @@
 
 ###
 
-<div align="center">
+<div align="flex center">
  <a href="https://www.instagram.com/tushar___bisht__16/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
  <a href="mailto:tusharbisht706@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /></a>
  <a href="https://www.linkedin.com/in/tushar-singh-bisht-a1099a314/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
@@ -164,10 +164,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Quantum-Fiend&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantum-Fiend&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantum-Fiend&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div> -->
 
 ###
 
