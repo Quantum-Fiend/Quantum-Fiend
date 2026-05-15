@@ -32,7 +32,13 @@
 
 ###
 
-<p align="left">🔍 Reduce problems to fundamentals. <br>🧠 Study edge cases, not just happy paths. <br>🧪 Validate ideas with fast experiments. <br>⚙️ Optimize for clarity before speed.  <br>🚀 Ship → learn → refine</p>
+<p align="left">
+🧠 Decompose complex systems into scalable, maintainable, and observable components.<br>
+⚡ Analyze edge cases, bottlenecks, and failure scenarios before implementation begins.<br>
+🛠️ Prioritize architecture clarity, clean abstractions, and long-term maintainability over shortcuts.<br>
+📊 Make engineering decisions through benchmarking, profiling, and data-driven trade-off analysis.<br>
+🚀 Iterate rapidly with production mindset — design, validate, optimize, and scale continuously.
+</p>
 
 ###
 
