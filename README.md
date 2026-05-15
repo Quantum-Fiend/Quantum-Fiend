@@ -40,7 +40,13 @@
 
 ###
 
-<p align="left">🤖 Exploring agentic patterns and workflows enabled by Generative AI.<br>⚙️ Studying how LLMs integrate into backend systems and APIs.<br>🧠 Deep-diving into system design, failure modes, and resilience.<br>🔬 Understanding performance, latency, and reliability trade-offs.<br>🛠️ Practicing advanced debugging and system analysis.</p>
+<p align="left">
+⚡ Solving advanced DSA problems in Java with focus on optimization, complexity analysis, and competitive programming patterns.<br>
+🏗️ Designing scalable distributed systems with emphasis on microservices, caching, load balancing, and fault tolerance.<br>
+☕ Building high-performance backend systems using Java, Spring Boot, REST APIs, and asynchronous architectures.<br>
+📊 Exploring database internals, query optimization, indexing strategies, and system reliability trade-offs.<br>
+🛠️ Practicing low-level debugging, concurrency handling, JVM internals, and production-grade engineering concepts.
+</p>
 
 ### 
 
