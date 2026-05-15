@@ -160,7 +160,14 @@
 
 ###
 
-<p align="left">💻 Software Engineer | System Breaker | Creative Technologist.<br>🕷️ I dissect systems to uncover hidden logic, failure modes, and emergent behavior.<br>🧩 I build from first principles — logic-first, explainable, and resilient by design.<br>🧪 Comfortable in ambiguity. Relentless with curiosity.<br>🔓 I don’t trust black boxes. I open them, study them, and rebuild them.<br>🎯 Mission: Engineer scalable systems that stay clear, calm, and correct under pressure.</p>
+<p align="left">
+⚡ Software Engineer focused on scalable systems, distributed architectures, and high-performance backend engineering.<br>
+🧠 I analyze systems at the protocol, runtime, and infrastructure level to uncover bottlenecks, failure patterns, and hidden complexity.<br>
+🏗️ I design with first-principles thinking — prioritizing scalability, resiliency, observability, and clean abstractions.<br>
+🔍 Strong interest in JVM internals, concurrency, system reliability, and performance engineering under real-world workloads.<br>
+🛠️ I prefer understanding systems deeply — from databases and networks to operating systems and execution flows.<br>
+🎯 Mission: Build resilient, production-grade systems that remain efficient, fault-tolerant, and maintainable at scale.
+</p>
 
 ###
 
